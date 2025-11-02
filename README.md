@@ -44,7 +44,7 @@ Follow these steps to set up the project environment:
 
 Clone the repository:
 
-git clone [https://github.com/YourUser/Gemini-AI-Bot.git](https://github.com/YourUser/Gemini-AI-Bot.git)
+git clone https://github.com/TakiTank/Tg-bot/tree/master/telegram_bot_gpt-main
 cd Gemini-AI-Bot
 
 
