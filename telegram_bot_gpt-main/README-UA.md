@@ -44,7 +44,7 @@ OpenAI API Key (або інший ключ для доступу до GPT мод
 
 Клонуйте репозиторій:
 
-git clone [https://github.com/ВашКористувач/Gemini-AI-Bot.git](https://github.com/ВашКористувач/Gemini-AI-Bot.git)
+git clone[(https://github.com/TakiTank/Tg-bot/tree/master/telegram_bot_gpt-main)]
 cd Gemini-AI-Bot
 
 
